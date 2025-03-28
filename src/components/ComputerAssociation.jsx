@@ -26,7 +26,7 @@ function ComputerAssociation() {
                         <Carousel.Item>
                             <img
                                 className="w-full h-96 object-contain mx-auto"
-                                src="/imgs/IMG_2492.JPG"
+                                src="https://res.cloudinary.com/dp4xlyrjq/image/upload/v1743180737/IMG_2492_vlwsjr.jpg"
                                 alt="First slide"
                             />
                             <Carousel.Caption className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-4">
@@ -37,7 +37,7 @@ function ComputerAssociation() {
                         <Carousel.Item>
                             <img
                                 className="w-full h-96 object-contain mx-auto"
-                                src="/imgs/IMG_8579.jpg"
+                                src="https://res.cloudinary.com/dp4xlyrjq/image/upload/v1743180734/IMG_8579_duhiy4.jpg"
                                 alt="Second slide"
                             />
                             <Carousel.Caption className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-4">
@@ -48,7 +48,7 @@ function ComputerAssociation() {
                         <Carousel.Item>
                             <img
                                 className="w-full h-96 object-contain mx-auto"
-                                src="/imgs/img_212.png"
+                                src="https://res.cloudinary.com/dp4xlyrjq/image/upload/v1743180737/img_212_leagiz.png"
                                 alt="Third slide"
                             />
                             <Carousel.Caption className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-4">
@@ -59,7 +59,7 @@ function ComputerAssociation() {
                         <Carousel.Item>
                             <img
                                 className="w-full h-96 object-contain mx-auto"
-                                src="/imgs/img_214.png"
+                                src="https://res.cloudinary.com/dp4xlyrjq/image/upload/v1743180728/img_214_gmzydc.png"
                                 alt="Fourth slide"
                             />
                             <Carousel.Caption className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-4">
@@ -70,7 +70,7 @@ function ComputerAssociation() {
                         <Carousel.Item>
                             <img
                                 className="w-full h-96 object-contain mx-auto"
-                                src="/imgs/img_213.png"
+                                src="https://res.cloudinary.com/dp4xlyrjq/image/upload/v1743180733/img_213_iqu7i7.png"
                                 alt="Fifth slide"
                             />
                             <Carousel.Caption className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-4">
@@ -81,7 +81,7 @@ function ComputerAssociation() {
                         <Carousel.Item>
                             <img
                                 className="w-full h-96 object-contain mx-auto"
-                                src="/imgs/img_211.png"
+                                src="https://res.cloudinary.com/dp4xlyrjq/image/upload/v1743180731/img_211_tob1je.png"
                                 alt="Sixth slide"
                             />
                             <Carousel.Caption className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-4">
