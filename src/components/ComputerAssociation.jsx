@@ -26,7 +26,7 @@ function ComputerAssociation() {
                         <Carousel.Item>
                             <img
                                 className="w-full h-96 object-contain mx-auto"
-                                src="public/imgs/IMG_2492.JPG"
+                                src="/imgs/IMG_2492.JPG"
                                 alt="First slide"
                             />
                             <Carousel.Caption className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-4">
@@ -37,7 +37,7 @@ function ComputerAssociation() {
                         <Carousel.Item>
                             <img
                                 className="w-full h-96 object-contain mx-auto"
-                                src="public/imgs/IMG_8579.jpg"
+                                src="/imgs/IMG_8579.jpg"
                                 alt="Second slide"
                             />
                             <Carousel.Caption className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-4">
@@ -48,7 +48,7 @@ function ComputerAssociation() {
                         <Carousel.Item>
                             <img
                                 className="w-full h-96 object-contain mx-auto"
-                                src="public/imgs/img_212.png"
+                                src="/imgs/img_212.png"
                                 alt="Third slide"
                             />
                             <Carousel.Caption className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-4">
@@ -59,7 +59,7 @@ function ComputerAssociation() {
                         <Carousel.Item>
                             <img
                                 className="w-full h-96 object-contain mx-auto"
-                                src="public/imgs/img_214.png"
+                                src="/imgs/img_214.png"
                                 alt="Fourth slide"
                             />
                             <Carousel.Caption className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-4">
@@ -70,7 +70,7 @@ function ComputerAssociation() {
                         <Carousel.Item>
                             <img
                                 className="w-full h-96 object-contain mx-auto"
-                                src="public/imgs/img_213.png"
+                                src="/imgs/img_213.png"
                                 alt="Fifth slide"
                             />
                             <Carousel.Caption className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-4">
@@ -81,7 +81,7 @@ function ComputerAssociation() {
                         <Carousel.Item>
                             <img
                                 className="w-full h-96 object-contain mx-auto"
-                                src="public/imgs/img_211.png"
+                                src="/imgs/img_211.png"
                                 alt="Sixth slide"
                             />
                             <Carousel.Caption className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-4">
