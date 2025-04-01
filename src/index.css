@@ -86,7 +86,7 @@ button:focus-visible {
   }
 } */
 
-:root {
+/* :root {
 
   --radius: 0.625rem;
 
@@ -298,4 +298,4 @@ button:focus-visible {
   body {
     @apply bg-background text-foreground;
   }
-}
+} */
