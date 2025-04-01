@@ -1,5 +1,6 @@
 import React from "react";
-import { Accordion } from "react-bootstrap";
+import Accordion from "react-bootstrap/Accordion";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function StudentSupport() {
     const supportPractices = [
@@ -27,21 +28,19 @@ function StudentSupport() {
                 <div className="bg-white shadow rounded-3xl p-4 mb-4">
                     <h3 className="!text-[#910000] underline mb-3">Student Support</h3>
                     <p className="text-muted">
-                        Faculty members of the Department endeavor to be guides, counselors and facilitators to the students in order to sharpen their technical, leadership and organizational skills.
+                        Faculty members of the Department endeavor to be guides, counselors, and facilitators to the students in order to sharpen their technical, leadership, and organizational skills.
                     </p>
                     <p className="text-muted mt-2">
                         The department has adopted various practices for students' support:
                     </p>
                 </div>
                 
-                <Accordion defaultActiveKey="0">
+                <Accordion defaultActiveKey={null} alwaysOpen>
                     {supportPractices.map((practice, index) => (
-                        <Accordion.Item eventKey={index.toString()} key={index} className="mb-3">
-                            <Accordion.Header className="fw-bold text-description">
-                                {practice.title}
-                            </Accordion.Header>
+                        <Accordion.Item eventKey={index.toString()} key={index}>
+                            <Accordion.Header>{practice.title}</Accordion.Header>
                             <Accordion.Body>
-                                {practice.description}
+                                <p className="text-dark mb-0">{practice.description}</p>
                             </Accordion.Body>
                         </Accordion.Item>
                     ))}
